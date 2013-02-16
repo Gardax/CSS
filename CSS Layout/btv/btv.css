@@ -1,0 +1,47 @@
+body
+{
+ background-color:#1e3741;
+}
+.cell
+{
+	background-color:#4b5f67;
+	color:#949494;
+	float: left;
+	margin-left: 4px;
+	padding: 10px 10px 10px 10px;
+}
+#body
+{
+	width: 400px;
+	padding-top: 50px;
+}
+#clicked
+{
+	 background-color:#1e3741;
+	 color: #ffffff;
+	 font-weight: bold;
+}
+.new
+{
+	width: 250px;
+	color:#949494;
+	border-bottom: 1px solid #384d56;
+	padding: 10px 10px 10px 10px;
+}
+#internetNews
+{
+	possition: absolute;
+	background-color: #00968c;
+	color: #ffffff;
+}
+#picture
+{
+	margin-top: -345px;
+	margin-left: 270px;
+}
+#sport
+{
+	text-decoration:underline;
+}
+	
+	

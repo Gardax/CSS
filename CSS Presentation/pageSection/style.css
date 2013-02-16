@@ -1,0 +1,54 @@
+li{
+list-style:none;
+}
+table
+{
+	border-spacing: 20px;
+}
+ul{
+margin-left:-40px;
+
+}
+body{
+
+}
+h1{
+color:#a2a3a3;
+font-size: 30px;
+margin-left:20px;
+}
+#support{
+color:#d60000;
+font-weight:bold;
+}
+.left{
+color: #ffffff;
+}
+.right
+{
+	color: #e9f289;
+}
+.grey
+{
+	color:#a2a3a3;
+}
+.orange{
+	color:#ff7a38;	
+}
+#name
+{
+	list-style: disc;
+	color:#8bff7c;
+	margin-left:20px;
+}
+#nameColor{
+	color:#e9f289
+}
+#main
+{
+	width: 300px;
+	height: 400px;
+	background-color:#5f5f5f;
+	padding: 20px;
+	border: 5px dashed #f9f2a5;
+}

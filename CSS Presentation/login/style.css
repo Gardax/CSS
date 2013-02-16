@@ -1,0 +1,86 @@
+body
+{
+	color: #b3b2b2;
+}
+.group
+{
+	float: left;
+	background-color: #eeeeee;
+	width:150px;
+	text-align: center;
+	height: 100px;
+}
+.icon
+{
+	margin-top: 10px;
+	background-color: #eeeeee;
+	margin-right:10px;
+}
+.line
+{
+	float: right;	
+	margin-top: -60px;
+}
+#error
+{
+	margin-top:15px;
+}
+#login
+{
+	padding: 20px;
+	width: 300px;
+	background-color: #eeeeee;
+	margin-top: 10px;
+	border: 5px solid #93f0f8;
+}
+#button
+{
+	margin-top: -20px;
+	margin-left: 150px;
+}
+#pass
+{
+	margin-top:20px;
+}
+.up
+{
+	width: 250px;
+}
+a
+{
+	color: #6cc1de;
+}
+#menu
+{
+	width: 200px;
+	margin-left: 800px;
+	margin-top: -200px;
+	background-color: #eeeeee;
+	border: 5px solid #093d93;
+}
+#menu li
+{
+	border-bottom: 1px solid #d2d2d2;
+	list-style-type:none;
+	height: 30px;
+	margin-top: 5px;
+}
+#menu ul
+{
+	padding: 10px;
+}
+.sub
+{
+	margin-top: -24px;
+	margin-left: 30px;
+}
+.moveLeft
+{
+	margin-left: -8px;
+}
+#topNav
+{	margin-top: 50px;
+	border: 5px solid #676767;
+	height: 100px;
+	width: 750px;
+}

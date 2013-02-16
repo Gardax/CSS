@@ -1,0 +1,31 @@
+#main
+{
+	border: 4px double black;
+	border-radius: 20px;
+	padding: 0px 40px 20px 20px;
+	width: 700px;
+}
+#pl
+{
+	width: 400px;
+}
+#content
+{
+	border-radius: 20px;
+	padding: 20px;
+	background-color: #4973fb;
+}
+#playlist
+{
+	margin-top: -300px;
+	margin-left: 450px;
+	overflow-y: scroll;
+	width: 220px;
+	color: #98a600;
+	text-decoration: underline;
+	
+}
+#bottom
+{
+	margin-top: 170px;
+}

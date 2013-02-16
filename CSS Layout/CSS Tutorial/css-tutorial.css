@@ -1,0 +1,156 @@
+body {
+    font-family: verdana;
+    background-color: #F1F1F1;
+    font-size: 12px;
+}
+
+a {
+    color: #900B09;
+    font-size: 12px;
+}
+
+#home {
+    margin-top: 20px;
+}
+
+#home div {
+    display: inline;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#home img {
+    height: 18px;
+    width: 18px;
+    margin-bottom: -2px;
+}
+
+.category {
+    color: #900B09;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+nav {
+    display: inline;
+    float: left;
+}
+
+nav ul {
+    margin: 0px;
+    margin-top: -12px;
+    margin-bottom: 15px;
+    list-style: none;
+}
+
+nav li {
+    font-size: 12px;
+    margin-left: -40px;
+}
+
+section {
+    float: left;
+    background-color: #ffffff;
+    border: 1px solid gray;
+    padding-left: 3px;
+    padding-top: 20px;
+    padding-right: 3px;
+    margin-top: -25px;
+    margin-left: 15px;
+}
+
+section h2 {
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+section hr {
+    height: 1px;
+    background-color: #a9a9a9;
+    margin-bottom: -10px;
+}
+
+.previous {
+    width: 120px;
+    font-size: 12px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    background-image: url("left_arrow.png");
+    background-size: 4%;
+    background-repeat: no-repeat;
+	background-position: 2% 50%;
+}
+
+.next {
+    width: 120px;
+    font-size: 12px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    background-image: url("right_arrow.png");
+    background-size: 4%;
+    background-repeat: no-repeat;
+    background-position: 98% 50%;
+}
+
+.heading {
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    background-color: #808080;
+    color: white;
+    font-size: 14px;
+    padding-left: 3px;
+    font-weight: 600;
+}
+
+#cssTutorial img {
+    float: left;
+    margin-right: 20px;
+}
+
+#content {
+    display: inline;
+    float: left;
+    margin-top: -6px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.clearer {
+    clear: both;
+}
+
+#bottomLine1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#bottomLine2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+aside {
+    width: 220px;
+    float: left;
+    margin-top: -25px;
+    margin-left: 2px;
+}
+
+.sideHeading {
+    margin: 0px;
+    background-color: #808080;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.sideElement {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid gray;
+    text-align: center;
+    margin-bottom: 1px;
+}

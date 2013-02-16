@@ -1,0 +1,39 @@
+#gore
+{
+ background-color:#343434;
+ font-size:20pt;
+ color:#ffffff;
+ font-weight:bold;
+ width:700px;
+ height:45pt;
+ vertical-align:center;
+ margin-bottom:0pt;
+}
+#dolu
+{
+ background-color:#3b3b3b;
+ color:#a2a2a2;
+ padding: 0px 20px 20px 20px;
+ margin-top: -22px;
+ width: 660px;
+}
+img
+{
+ margin-right:20pt;
+ margin-left:15pt;
+ margin-top:5pt;
+}
+h1
+{
+ color:#ffd624;
+}
+#form
+{
+	margin-top:-40px;
+	margin-left: 80px;
+}
+#go
+{
+	margin-top:-30px;
+	margin-left: 600px;
+}
